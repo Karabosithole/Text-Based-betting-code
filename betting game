@@ -37,6 +37,9 @@ def get_bet():
     return amount
 
 def total_bet():
+    while True:
+     
+    return amount
     
 
 
