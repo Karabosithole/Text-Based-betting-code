@@ -15,7 +15,7 @@ symbol_count = {
 
 def get_slot_machine_spin(rows,cols,symbols):
     
-    all_symbols
+    all_symbols = 
 
 
 
